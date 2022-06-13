@@ -1,6 +1,7 @@
 # About-me
 
 What I learned in college：
+
 In college, I learned "Advanced Mathematics", "Linear Algebra", "Probability Theory and Mathematical Statistics", "C language Programming", "Data Structure", "Dissociation mathematics", "Digital Logic", "C language Design". ", "Computer Audit", "Computer Network", "Operating System", "Computer Configuration Principle", "Software Architecture", "JAVA Programming", "Linux System and Programming", "Oracle Database", "Python Big Data Processing", "Weka Data Mining" and other professional courses.
 
 
