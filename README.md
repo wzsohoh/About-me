@@ -13,6 +13,6 @@ The system is based on the Visual Studio environment and is designed with C#. Th
 Online course selection website（Mar 2019 - May 2019）：
 I also participated in the development of the online course selection website, which mainly includes functions such as teachers' online course selection and course coordination. I am responsible for writing the front-end code, testing the post-system and writing the introductory documentation. The front end is the interface design and function module distribution of the whole system. After my design is completed, other students in the team will implement certain functions according to the functional modules. Once the system is complete, I'm responsible for testing if the system can be used. After testing is complete, I also organize and edit the entire team design process, including design concepts, assignments, and questions that arise during different testing sessions.
 
-Lip recognition based on LBP-TOP algorithm and libsvm classifier in Matlab environment（Apr 2020 - Jun 2020）
+Lip recognition based on LBP-TOP algorithm and libsvm classifier in Matlab environment（Apr 2020 - Jun 2020）：
 In my graduation project, I studied lip shape recognition based on LBP-TOP algorithm and libsvm classifier in Matlab environment. It first processes the video data into images through matlab, and then uses the LBP-TOP algorithm to extract the feature values in the images. Then we use libsvm to build the model based on the eigenvalues, and finally test the accuracy of the model with the new data.
 
